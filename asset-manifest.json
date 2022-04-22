@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freshmenu/static/css/main.fd4feeaa.css",
+    "main.js": "/freshmenu/static/js/main.03648062.js",
+    "index.html": "/freshmenu/index.html",
+    "main.fd4feeaa.css.map": "/freshmenu/static/css/main.fd4feeaa.css.map",
+    "main.03648062.js.map": "/freshmenu/static/js/main.03648062.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd4feeaa.css",
+    "static/js/main.03648062.js"
+  ]
+}
